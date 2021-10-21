@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0du12tyEKtEdRIVl8JKZvOqe9QxEQ1UzRumu5CzdQbhPY0uSVNzrx92bfFa2S8R4BmRKalDNZLIW71JCCj8w7g==",
+  "success": true,
+  "projectFilePath": "D:\\LearningApp\\CourseDetailsListenerQueue\\ReportService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BASKARAN P\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\BASKARAN P\\.nuget\\packages\\plain.rabbitmq\\0.0.0.3\\plain.rabbitmq.0.0.0.3.nupkg.sha512",
+    "C:\\Users\\BASKARAN P\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\BASKARAN P\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\BASKARAN P\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512",
+    "C:\\Users\\BASKARAN P\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.20\\microsoft.netcore.app.host.win-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
